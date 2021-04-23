@@ -1,14 +1,14 @@
 *.tar.gz
 
 *.exe
-src/litecoin
-src/litecoind
-src/litecoin-cli
-src/litecoin-tx
-src/litecoin-wallet
-src/test/test_litecoin
-src/test/test_litecoin_fuzzy
-src/qt/test/test_litecoin-qt
+src/sharpcoin
+src/sharpcoind
+src/sharpcoin-cli
+src/sharpcoin-tx
+src/sharpcoin-wallet
+src/test/test_sharpcoin
+src/test/test_sharpcoin_fuzzy
+src/qt/test/test_sharpcoin-qt
 
 # autoreconf
 Makefile.in
@@ -83,7 +83,7 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
+sharpcoin-qt
 litecoin-Qt.app
 background.tiff*
 
